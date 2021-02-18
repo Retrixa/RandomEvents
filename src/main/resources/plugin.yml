@@ -1,0 +1,7 @@
+name: RandomEvents
+version: ${project.version}
+main: retrixastudios.randomevents.RandomEvents
+api-version: 1.16.5
+authors: [Retrixa]
+description: Plugin to provide RandomEvents to Players in order to determine legitimate play and reward successful completion of random events.
+website: https://www.buymeacoffee.com/retrixa
