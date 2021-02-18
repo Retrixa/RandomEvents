@@ -70,8 +70,8 @@ There are a small number of permissions for the administration of RandomEvents.
 
 Useful links for this plugin!
 
-If you find this plugin a useful addition to your server, consider [buying a coffee](buymeacoffee.com/retrixa) for the developers!
+If you find this plugin a useful addition to your server, consider [buying a coffee](https://www.buymeacoffee.com/retrixa) for the developers!
 
-You can find support for this plugin at our Official Discord [pending]()
+You can find support for this plugin at our Official Discord [pending](https://github.com/Retrixa/RandomEvents/blob/main/README.md)
 
 Thank you!
