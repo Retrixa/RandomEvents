@@ -72,6 +72,6 @@ Useful links for this plugin!
 
 If you find this plugin a useful addition to your server, consider [buying a coffee](https://www.buymeacoffee.com/retrixa) for the developers!
 
-You can find support for this plugin at our Official Discord [pending](https://github.com/Retrixa/RandomEvents/blob/main/README.md)
+You can find support for this plugin at our Official Discord [Here](https://discord.com/invite/KNFD3KdfEA)
 
 Thank you!
